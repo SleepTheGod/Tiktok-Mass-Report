@@ -1,1 +1,3 @@
-pip install selenium requests
+selenium
+requests
+webdriver-manager
